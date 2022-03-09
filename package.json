@@ -1,0 +1,13 @@
+{
+  "name": "tg_channel_to_flarum",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "moment": "^2.29.1",
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
