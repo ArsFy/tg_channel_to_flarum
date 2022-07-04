@@ -2,7 +2,7 @@
 
 把你的 TG Channel 訊息推送到 Flarum
 
-<img width="35%" src="https://upload.cc/i1/2022/03/09/nsLPHZ.png" /><img width="65%" src="https://upload.cc/i1/2022/03/09/N0Y5Aj.png" />
+<img width="60%" src="https://user-images.githubusercontent.com/93700457/177198509-88ebf5f5-0d09-4eb5-9063-f9aa50c2ed99.png" /><img width="40%" src="https://user-images.githubusercontent.com/93700457/177198597-12acbbdc-295d-45d5-8ff6-56d4ac8ebabc.png" />
 
 ### Config
 
